@@ -1,0 +1,10 @@
+('Cherchil', 98)
+{'Nitin': 99, 'vasanth': 91, 'Manoj': 89, 'Barathi': 93}
+('Barathi', 93)
+{'Nitin': 99, 'vasanth': 91, 'Manoj': 89}
+('Manoj', 89)
+{'Nitin': 99, 'vasanth': 91}
+('vasanth', 91)
+{'Nitin': 99}
+('Nitin', 99)
+{}
